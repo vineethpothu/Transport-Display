@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "117731104888",
+    "firebase_url": "https://transport-tracker-5130e.firebaseio.com",
+    "project_id": "transport-tracker-5130e",
+    "storage_bucket": "transport-tracker-5130e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117731104888:android:fa8d28da497f36ca",
+        "android_client_info": {
+          "package_name": "com.vineeth.android.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117731104888-1a92mvndl8r0gqhu08ttugsu41o47k02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vineeth.android.transporttracker",
+            "certificate_hash": "46fecd57eb5568666af9a0d5a9aae765d6322e1c"
+          }
+        },
+        {
+          "client_id": "117731104888-g0ibqi9mcdcr1ad5at05dua9dp5gch0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_vlXKBgSYLLcLe_idsA19A7zMcQYl9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117731104888-g0ibqi9mcdcr1ad5at05dua9dp5gch0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117731104888:android:2806f3381ceee7ae",
+        "android_client_info": {
+          "package_name": "com.vineeth.android.transportdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117731104888-vsg9h42fh6olk596i56bdam40gf2936r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vineeth.android.transportdisplay",
+            "certificate_hash": "46fecd57eb5568666af9a0d5a9aae765d6322e1c"
+          }
+        },
+        {
+          "client_id": "117731104888-g0ibqi9mcdcr1ad5at05dua9dp5gch0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_vlXKBgSYLLcLe_idsA19A7zMcQYl9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117731104888-g0ibqi9mcdcr1ad5at05dua9dp5gch0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
